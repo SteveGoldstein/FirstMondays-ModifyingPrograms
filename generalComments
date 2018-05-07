@@ -1,0 +1,16 @@
+You can start from knowing nothing about the language, but I'll assume
+a tiny bit of familiarity with bash scripting.
+
+Ask yourself:  what does this program or section or line or command do?
+and make a guess at the answer.   Then either confirm your guess or
+move on (but remember that you guessed).
+
+Organize files, directories, code, etc from the beginning. Here's a start:   
+	 Put code in a separate directory.
+	 Put data in a separate directory.
+	 Create a testing data set.
+
+
+
+
+
